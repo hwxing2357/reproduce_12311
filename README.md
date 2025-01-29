@@ -1,1 +1,1 @@
-Codes to reproduce the results from CL-BRUNO: a probabilistic Continual Learning framework based on exchangeable sequence modelling
+Codes to reproduce the results in submission id 12311
